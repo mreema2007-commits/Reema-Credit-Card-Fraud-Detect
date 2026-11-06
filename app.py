@@ -8,7 +8,7 @@ from pathlib import Path
 # ============================================
 
 st.set_page_config(
-    page_title="Credit Card Fraud Detection",
+    page_title="Reema Credit Card Fraud Detection",
     page_icon="💳",
     layout="wide"
 )
