@@ -17,8 +17,8 @@ st.set_page_config(
 # LOAD MODEL
 # ============================================
 
-model = joblib.load("models/fraud_model.pkl")
-scaler = joblib.load("models/scaler.pkl")
+mmodel = joblib.load("fraud_model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # ============================================
 # HEADER
